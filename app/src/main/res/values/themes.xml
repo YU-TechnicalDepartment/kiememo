@@ -1,7 +1,5 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-
-    <style name="Theme.Kiememo" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- カスタムテーマを入れたければここに -->
+<resources>
+    <style name="Theme.Kiememo" parent="Theme.Material3.DayNight">
+        <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
-
 </resources>
