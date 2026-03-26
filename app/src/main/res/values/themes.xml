@@ -1,5 +1,6 @@
 <resources>
-    <style name="Theme.Kiememo" parent="Theme.Material3.DynamicColors.DayNight">
-        <!-- 何も追加しない -->
+    <style name="Theme.Kiememo" parent="Theme.Material3.Light.NoActionBar">
+        <!-- 追加の item は不要 -->
     </style>
 </resources>
+
